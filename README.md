@@ -1,6 +1,6 @@
 |  Esquemático:  |
 |:---:|
-|![Esquemático](https://github.com/Jhony2006/Fonte3T/blob/main/esquem%C3%A1tico3T.PNG)|
+|![Esquemático](https://github.com/VolglasLarocca/fonte-3t/blob/main/Esquem%C3%A1tico-foto.PNG?raw=true)|
 |Autores: Volglas / Julia|
 
 
